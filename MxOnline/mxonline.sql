@@ -269,7 +269,7 @@ INSERT INTO `courses_video` VALUES (10, '3.5 organization models设计', '2016-1
 INSERT INTO `courses_video` VALUES (11, '4.1 django settings配置', '2016-12-11 00:03:00', 8, 'https://www.jishu5.com/', 0);
 INSERT INTO `courses_video` VALUES (12, '4.2 models设计', '2016-12-11 00:04:00', 8, 'https://www.jishu5.com/', 20);
 INSERT INTO `courses_video` VALUES (13, '5.1 django admin讲解', '2016-12-11 00:05:00', 9, 'https://www.jishu5.com/', 10);
-INSERT INTO `courses_video` VALUES (14, '5.2 xadmin的安装和注册', '2016-12-11 00:05:00', 9, 'http://imooc.com/', 0);
+INSERT INTO `courses_video` VALUES (14, '5.2 xadmin的安装和注册', '2016-12-11 00:05:00', 9, 'https://www.jishu5.com/', 0);
 
 -- ----------------------------
 -- Table structure for django_admin_log
